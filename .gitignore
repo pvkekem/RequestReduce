@@ -36,3 +36,6 @@ BuildFiles
 TestResults
 Packages
 *.sdf
+
+RequestReduce.SimpleWeb/RequestReduceContent/*
+/.vs
